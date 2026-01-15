@@ -1,0 +1,145 @@
+Airline_Name,Review_Title,Review,Overall_Rating,Recommended,Verified,Review_Date,Date_Flown,Route,Aircraft,Seat_Type,Type_Of_Traveller,Value_For_Money
+Delta Airlines,Great experience overall,The flight was smooth and the crew was very attentive. Food could have been better but overall satisfied with the service.,4,yes,yes,2024-01-15,2024-01-10,Atlanta to New York,Boeing 737,Economy,Business,4
+United Airlines,Terrible delay,Flight was delayed for 3 hours with no explanation. No compensation offered. Very disappointed.,2,no,yes,2024-01-14,2024-01-12,Chicago to Los Angeles,Airbus A320,Economy,Leisure,2
+American Airlines,Comfortable flight,Seats were surprisingly comfortable for economy class. Entertainment system worked well.,4,yes,yes,2024-01-13,2024-01-08,Dallas to Miami,Boeing 777,Economy,Family,3
+Southwest Airlines,Budget friendly,You get what you pay for. No frills but gets you there. Staff was friendly.,3,yes,yes,2024-01-12,2024-01-09,Denver to Las Vegas,Boeing 737,Economy,Leisure,4
+JetBlue,Excellent legroom,More legroom than most airlines. Free snacks and WiFi were great additions.,5,yes,yes,2024-01-11,2024-01-07,Boston to Orlando,Airbus A321,Economy,Family,4
+Emirates,Luxury in the sky,Business class was phenomenal. Lie-flat seats and exceptional service throughout.,5,yes,yes,2024-01-10,2024-01-05,Dubai to London,Airbus A380,Business,Business,5
+Ryanair,Gets you there cheap,Very basic service but price was unbeatable. Seats are cramped though.,3,yes,yes,2024-01-09,2024-01-06,Dublin to Barcelona,Boeing 737,Economy,Leisure,5
+British Airways,Disappointing service,Expected more from BA. Food was cold and staff seemed disinterested.,2,no,yes,2024-01-08,2024-01-04,London to Paris,Airbus A319,Economy,Business,2
+Lufthansa,Professional service,Everything ran like clockwork. German efficiency at its best.,4,yes,yes,2024-01-07,2024-01-03,Frankfurt to Munich,Airbus A320,Economy,Business,4
+Singapore Airlines,World class,Best airline I've ever flown with. Attention to detail is remarkable.,5,yes,yes,2024-01-06,2024-01-01,Singapore to Sydney,Boeing 787,Business,Leisure,5
+Air France,Bon voyage,French hospitality in the air. Wine selection was excellent.,4,yes,yes,2024-01-05,2023-12-30,Paris to New York,Boeing 777,Premium Economy,Leisure,4
+Qatar Airways,Outstanding experience,From check-in to landing everything was perfect. Will fly again.,5,yes,yes,2024-01-04,2023-12-28,Doha to Bangkok,Airbus A350,Business,Business,5
+ANA,Japanese excellence,Impeccable service and cleanliness. Food was authentic and delicious.,5,yes,yes,2024-01-03,2023-12-27,Tokyo to Osaka,Boeing 787,Economy,Business,4
+KLM,Solid airline,No complaints. Everything was as expected for the price paid.,4,yes,yes,2024-01-02,2023-12-26,Amsterdam to Berlin,Boeing 737,Economy,Leisure,4
+Turkish Airlines,Good value,Surprisingly good for the price. Istanbul airport is massive though.,4,yes,yes,2024-01-01,2023-12-25,Istanbul to Cairo,Airbus A321,Economy,Leisure,4
+Cathay Pacific,Premium comfort,Business class lounge in Hong Kong is worth experiencing alone.,5,yes,yes,2023-12-31,2023-12-24,Hong Kong to Singapore,Airbus A350,Business,Business,5
+Qantas,Aussie pride,Friendly crew and good safety record. Long haul flights are comfortable.,4,yes,yes,2023-12-30,2023-12-23,Sydney to Melbourne,Boeing 737,Economy,Business,3
+Air Canada,Mediocre experience,Nothing special but nothing terrible either. Average all around.,3,yes,yes,2023-12-29,2023-12-22,Toronto to Vancouver,Airbus A320,Economy,Family,3
+Etihad Airways,Luxurious,First class suite was incredible. Like a flying hotel room.,5,yes,yes,2023-12-28,2023-12-21,Abu Dhabi to New York,Boeing 777,First,Leisure,5
+Virgin Atlantic,Fun and friendly,Love the mood lighting and entertainment. Crew has great personality.,4,yes,yes,2023-12-27,2023-12-20,London to Las Vegas,Boeing 787,Premium Economy,Leisure,4
+EasyJet,No frills flying,Basic but functional. Good for short European hops.,3,yes,yes,2023-12-26,2023-12-19,London to Amsterdam,Airbus A319,Economy,Leisure,4
+Norwegian Air,Decent budget option,Comfortable enough for the price. Would fly again for short trips.,3,yes,yes,2023-12-25,2023-12-18,Oslo to Copenhagen,Boeing 737,Economy,Leisure,4
+Swiss International,Swiss precision,Everything on time and well organized. Chocolate on boarding was nice touch.,4,yes,yes,2023-12-24,2023-12-17,Zurich to Geneva,Airbus A220,Economy,Business,4
+TAP Portugal,Pleasant surprise,Better than expected. Lisbon airport is beautiful.,4,yes,yes,2023-12-23,2023-12-16,Lisbon to Porto,Airbus A319,Economy,Leisure,3
+Iberia,Spanish charm,Good service and food. Madrid airport is well connected.,4,yes,yes,2023-12-22,2023-12-15,Madrid to Barcelona,Airbus A320,Economy,Business,3
+Aeroflot,Improved service,Much better than their old reputation. Modern fleet now.,3,yes,yes,2023-12-21,2023-12-14,Moscow to St Petersburg,Airbus A320,Economy,Business,3
+LOT Polish Airlines,Good value for money,Comfortable seats and reasonable prices. Warsaw hub is efficient.,4,yes,yes,2023-12-20,2023-12-13,Warsaw to Krakow,Embraer E195,Economy,Leisure,4
+SAS Scandinavian,Nordic efficiency,Clean and punctual. Crew was professional.,4,yes,yes,2023-12-19,2023-12-12,Stockholm to Copenhagen,Airbus A320,Economy,Business,3
+Finnair,Cool and calm,Like the Nordic culture itself. Very relaxing flight.,4,yes,yes,2023-12-18,2023-12-11,Helsinki to Rovaniemi,Airbus A321,Economy,Leisure,3
+Alitalia,Italian style,Chaotic but charming. Food was authentically Italian.,3,yes,yes,2023-12-17,2023-12-10,Rome to Milan,Airbus A319,Economy,Leisure,3
+Austrian Airlines,Alpine quality,Professional service and good connections through Vienna.,4,yes,yes,2023-12-16,2023-12-09,Vienna to Salzburg,Airbus A320,Economy,Business,3
+Czech Airlines,Central European charm,Prague airport is convenient. Decent service overall.,3,yes,yes,2023-12-15,2023-12-08,Prague to Brno,ATR 72,Economy,Business,3
+Aegean Airlines,Greek hospitality,Friendly crew and good Mediterranean food.,4,yes,yes,2023-12-14,2023-12-07,Athens to Thessaloniki,Airbus A320,Economy,Leisure,4
+Aer Lingus,Irish warmth,Pleasant experience. Dublin airport staff very helpful.,4,yes,yes,2023-12-13,2023-12-06,Dublin to Cork,Airbus A320,Economy,Leisure,3
+Brussels Airlines,Belgian efficiency,Good service and connections through Brussels.,3,yes,yes,2023-12-12,2023-12-05,Brussels to Antwerp,Airbus A319,Economy,Business,3
+Croatia Airlines,Adriatic views,Beautiful approach to Split. Service was good.,4,yes,yes,2023-12-11,2023-12-04,Zagreb to Split,Dash 8,Economy,Leisure,3
+Cyprus Airways,Mediterranean service,Friendly crew and decent food.,3,yes,yes,2023-12-10,2023-12-03,Larnaca to Paphos,Airbus A319,Economy,Leisure,3
+Air India,Improving standards,New management showing results. Service better than before.,3,yes,yes,2023-12-09,2023-12-02,Delhi to Mumbai,Boeing 787,Economy,Business,3
+IndiGo,Budget leader in India,Punctual and efficient. Good for domestic travel.,3,yes,yes,2023-12-08,2023-12-01,Bangalore to Chennai,Airbus A320,Economy,Business,4
+SpiceJet,Spicy deals,Very cheap fares but service is basic.,2,yes,yes,2023-12-07,2023-11-30,Delhi to Jaipur,Boeing 737,Economy,Leisure,4
+Vistara,Premium Indian carrier,Best domestic airline in India. Good food and service.,4,yes,yes,2023-12-06,2023-11-29,Mumbai to Goa,Airbus A320,Economy,Leisure,4
+AirAsia,Low cost leader,You get what you pay for. Reliable though.,3,yes,yes,2023-12-05,2023-11-28,Kuala Lumpur to Bangkok,Airbus A320,Economy,Leisure,4
+Thai Airways,Royal treatment,Beautiful uniforms and good Thai hospitality.,4,yes,yes,2023-12-04,2023-11-27,Bangkok to Phuket,Boeing 777,Economy,Leisure,3
+Vietnam Airlines,Improving fast,Modern fleet and good service. Hanoi hub is nice.,4,yes,yes,2023-12-03,2023-11-26,Hanoi to Ho Chi Minh City,Airbus A321,Economy,Business,3
+Philippine Airlines,Island hopper,Good for getting around the Philippines.,3,yes,yes,2023-12-02,2023-11-25,Manila to Cebu,Airbus A321,Economy,Leisure,3
+Garuda Indonesia,Island nation carrier,Friendly service and good connections.,4,yes,yes,2023-12-01,2023-11-24,Jakarta to Bali,Boeing 737,Economy,Leisure,3
+Malaysia Airlines,Rebuilding reputation,Service is good. Safety concerns from past are addressed.,3,yes,yes,2023-11-30,2023-11-23,Kuala Lumpur to Penang,Boeing 737,Economy,Business,3
+China Eastern,Massive fleet,Huge airline with good connections in China.,3,yes,yes,2023-11-29,2023-11-22,Shanghai to Beijing,Airbus A320,Economy,Business,3
+China Southern,Southern comfort,Good domestic service in China.,3,yes,yes,2023-11-28,2023-11-21,Guangzhou to Shenzhen,Boeing 737,Economy,Business,3
+Air China,National carrier,Good international connections through Beijing.,3,yes,yes,2023-11-27,2023-11-20,Beijing to Chengdu,Boeing 777,Economy,Business,3
+Hainan Airlines,Skytrax rated,Better than expected. Clean and modern.,4,yes,yes,2023-11-26,2023-11-19,Hainan to Shanghai,Boeing 787,Economy,Leisure,3
+Korean Air,Asian excellence,Top tier service and food. Seoul hub is efficient.,5,yes,yes,2023-11-25,2023-11-18,Seoul to Busan,Boeing 777,Business,Business,4
+Asiana Airlines,Quality service,Good alternative to Korean Air. Similar quality.,4,yes,yes,2023-11-24,2023-11-17,Seoul to Jeju,Airbus A320,Economy,Leisure,4
+Japan Airlines,Japanese perfection,Everything you expect from Japanese service.,5,yes,yes,2023-11-23,2023-11-16,Tokyo to Sapporo,Boeing 787,Economy,Business,4
+Peach Aviation,Japanese budget,Clean and punctual even as budget airline.,3,yes,yes,2023-11-22,2023-11-15,Osaka to Tokyo,Airbus A320,Economy,Leisure,4
+Jetstar,Budget subsidiary,Part of Qantas group. Basic but reliable.,3,yes,yes,2023-11-21,2023-11-14,Sydney to Gold Coast,Airbus A320,Economy,Leisure,4
+Scoot,Singapore budget,Part of Singapore Airlines group. Good value.,3,yes,yes,2023-11-20,2023-11-13,Singapore to Taipei,Boeing 787,Economy,Leisure,4
+Cebu Pacific,Philippine budget,Very cheap but basic service.,2,yes,yes,2023-11-19,2023-11-12,Manila to Davao,Airbus A320,Economy,Leisure,4
+Nok Air,Thai budget,Fun branding and decent service for price.,3,yes,yes,2023-11-18,2023-11-11,Bangkok to Chiang Mai,Boeing 737,Economy,Leisure,4
+Air Arabia,Middle East budget,Good value from Sharjah hub.,3,yes,yes,2023-11-17,2023-11-10,Sharjah to Cairo,Airbus A320,Economy,Leisure,4
+Flynas,Saudi budget,Growing fast. Decent service.,3,yes,yes,2023-11-16,2023-11-09,Riyadh to Jeddah,Airbus A320,Economy,Business,3
+Wizz Air,European budget,Very cheap but cramped. Good for short trips.,3,yes,yes,2023-11-15,2023-11-08,Budapest to Vienna,Airbus A320,Economy,Leisure,4
+Vueling,Spanish budget,Part of IAG group. Reliable budget option.,3,yes,yes,2023-11-14,2023-11-07,Barcelona to Valencia,Airbus A320,Economy,Leisure,4
+Transavia,Dutch budget,KLM subsidiary. Good value.,3,yes,yes,2023-11-13,2023-11-06,Amsterdam to Alicante,Boeing 737,Economy,Leisure,4
+Eurowings,Lufthansa budget,German efficiency meets budget prices.,3,yes,yes,2023-11-12,2023-11-05,Cologne to Berlin,Airbus A319,Economy,Business,3
+Condor,German leisure,Good for vacation flights. Charter feeling.,3,yes,yes,2023-11-11,2023-11-04,Frankfurt to Mallorca,Airbus A321,Economy,Leisure,3
+TUI Airways,UK charter,Holiday airline. Does the job.,3,yes,yes,2023-11-10,2023-11-03,London to Tenerife,Boeing 737,Economy,Leisure,3
+WestJet,Canadian value,Good alternative to Air Canada.,3,yes,yes,2023-11-09,2023-11-02,Calgary to Toronto,Boeing 737,Economy,Business,3
+Porter Airlines,Toronto island gem,Convenient Billy Bishop airport. Good service.,4,yes,yes,2023-11-08,2023-11-01,Toronto to Montreal,Dash 8,Economy,Business,4
+Alaska Airlines,West coast favorite,Good service on US west coast routes.,4,yes,yes,2023-11-07,2023-10-31,Seattle to Portland,Boeing 737,Economy,Business,4
+Hawaiian Airlines,Aloha spirit,True Hawaiian hospitality. Flower lei was nice.,4,yes,yes,2023-11-06,2023-10-30,Honolulu to Maui,Airbus A321,Economy,Leisure,3
+Spirit Airlines,Ultra budget,You get nothing but a seat. Very cheap though.,2,yes,yes,2023-11-05,2023-10-29,Fort Lauderdale to Las Vegas,Airbus A320,Economy,Leisure,5
+Frontier Airlines,Talking animals,Fun livery but bare bones service.,2,yes,yes,2023-11-04,2023-10-28,Denver to Phoenix,Airbus A320,Economy,Leisure,4
+Allegiant Air,Casino routes,Flies to smaller cities. Very basic.,2,yes,yes,2023-11-03,2023-10-27,Las Vegas to Fresno,Airbus A320,Economy,Leisure,4
+Sun Country,Minnesota based,Regional carrier with decent service.,3,yes,yes,2023-11-02,2023-10-26,Minneapolis to Las Vegas,Boeing 737,Economy,Leisure,3
+Breeze Airways,New kid,David Neeleman's latest venture. Fresh approach.,3,yes,yes,2023-11-01,2023-10-25,Tampa to Charleston,Embraer E195,Economy,Leisure,3
+Avianca,Colombian flagship,Good Latin American network.,3,yes,yes,2023-10-31,2023-10-24,Bogota to Medellin,Airbus A320,Economy,Business,3
+LATAM,South American giant,Merger of LAN and TAM. Extensive network.,3,yes,yes,2023-10-30,2023-10-23,Santiago to Lima,Boeing 787,Economy,Business,3
+Copa Airlines,Panama hub,Great connections through Panama City.,4,yes,yes,2023-10-29,2023-10-22,Panama City to San Jose,Boeing 737,Economy,Business,4
+Aeromexico,Mexican pride,Good service and connections.,3,yes,yes,2023-10-28,2023-10-21,Mexico City to Guadalajara,Boeing 737,Economy,Business,3
+Volaris,Mexican budget,Very cheap fares. Basic service.,2,yes,yes,2023-10-27,2023-10-20,Mexico City to Cancun,Airbus A320,Economy,Leisure,4
+Interjet,Leather seats,All leather seats even in economy. Now defunct.,3,no,yes,2023-10-26,2023-10-19,Mexico City to Monterrey,Airbus A320,Economy,Business,3
+Azul Brazilian,Blue skies,Best domestic airline in Brazil.,4,yes,yes,2023-10-25,2023-10-18,Sao Paulo to Rio,Embraer E195,Economy,Business,3
+GOL Airlines,Brazilian budget,Largest Brazilian airline. Decent service.,3,yes,yes,2023-10-24,2023-10-17,Brasilia to Salvador,Boeing 737,Economy,Leisure,3
+Aerolineas Argentinas,Tango in the sky,Argentina's national carrier.,3,yes,yes,2023-10-23,2023-10-16,Buenos Aires to Cordoba,Boeing 737,Economy,Business,3
+South African Airways,Rainbow nation,Financial troubles but service still good.,3,yes,yes,2023-10-22,2023-10-15,Johannesburg to Cape Town,Airbus A320,Economy,Business,3
+Ethiopian Airlines,African powerhouse,Best airline in Africa. Great hub in Addis.,4,yes,yes,2023-10-21,2023-10-14,Addis Ababa to Nairobi,Boeing 737,Economy,Business,4
+Kenya Airways,Pride of Africa,Good regional connections.,3,yes,yes,2023-10-20,2023-10-13,Nairobi to Mombasa,Boeing 737,Economy,Leisure,3
+Egypt Air,Pharaoh's wings,Cairo hub is busy. Service is okay.,3,yes,yes,2023-10-19,2023-10-12,Cairo to Luxor,Airbus A320,Economy,Leisure,3
+Royal Air Maroc,Moroccan gateway,Casablanca hub is useful for Africa connections.,3,yes,yes,2023-10-18,2023-10-11,Casablanca to Marrakech,Boeing 737,Economy,Leisure,3
+Tunisair,Mediterranean crossroads,Decent regional carrier.,3,yes,yes,2023-10-17,2023-10-10,Tunis to Djerba,Airbus A320,Economy,Leisure,3
+Air Mauritius,Island paradise,Small but lovely airline. Paradise destination.,4,yes,yes,2023-10-16,2023-10-09,Mauritius to Rodrigues,ATR 72,Economy,Leisure,3
+Air Seychelles,Tropical beauty,Another island paradise airline.,4,yes,yes,2023-10-15,2023-10-08,Mahe to Praslin,ATR 72,Economy,Leisure,3
+RwandAir,Rising star,Fast growing African airline. Modern fleet.,4,yes,yes,2023-10-14,2023-10-07,Kigali to Nairobi,Airbus A330,Economy,Business,4
+Air Namibia,Desert carrier,Now defunct unfortunately. Was decent.,3,no,yes,2023-10-13,2023-10-06,Windhoek to Cape Town,Airbus A319,Economy,Leisure,3
+Delta Airlines,Disappointing Delta One,Expected better from business class. Seat was broken.,2,no,yes,2023-10-12,2023-10-05,New York to Los Angeles,Airbus A330,Business,Business,2
+United Airlines,Lost baggage nightmare,Bag lost for 5 days. Customer service unhelpful.,1,no,yes,2023-10-11,2023-10-04,San Francisco to Chicago,Boeing 777,Economy,Business,1
+American Airlines,Crew was rude,Flight attendant was dismissive and unprofessional.,2,no,yes,2023-10-10,2023-10-03,Miami to Dallas,Boeing 737,Economy,Leisure,2
+Southwest Airlines,Loved the flexibility,Free bag check and easy rebooking. Great airline.,4,yes,yes,2023-10-09,2023-10-02,Austin to Houston,Boeing 737,Economy,Business,4
+JetBlue,Mint class excellence,Best domestic business class in USA. Highly recommend.,5,yes,yes,2023-10-08,2023-10-01,New York to Los Angeles,Airbus A321,Business,Business,5
+Emirates,A380 upper deck,Bar area was fantastic. Felt like a luxury club.,5,yes,yes,2023-10-07,2023-09-30,Dubai to Sydney,Airbus A380,Business,Leisure,5
+Ryanair,Hidden fees everywhere,Advertised price doubled with all the add-ons.,2,no,yes,2023-10-06,2023-09-29,London to Dublin,Boeing 737,Economy,Leisure,3
+British Airways,Strike caused chaos,Not airline's fault but communication was poor.,2,no,yes,2023-10-05,2023-09-28,London to Madrid,Airbus A320,Economy,Business,2
+Lufthansa,Premium economy worth it,Extra legroom and better food. Good value.,4,yes,yes,2023-10-04,2023-09-27,Munich to New York,Airbus A350,Premium Economy,Business,4
+Singapore Airlines,Suite class heaven,Private suite was incredible. Best flight ever.,5,yes,yes,2023-10-03,2023-09-26,Singapore to Frankfurt,Airbus A380,First,Leisure,5
+Air France,Paris connection tight,Airport is confusing. Nearly missed connection.,3,yes,yes,2023-10-02,2023-09-25,Paris to Nice,Airbus A319,Economy,Leisure,3
+Qatar Airways,Qsuite is amazing,Best business class product. Privacy doors are great.,5,yes,yes,2023-10-01,2023-09-24,Doha to London,Boeing 777,Business,Business,5
+ANA,The Room business class,Spacious and private. Japanese service impeccable.,5,yes,yes,2023-09-30,2023-09-23,Tokyo to New York,Boeing 777,Business,Business,5
+KLM,Friendly Dutch crew,Crew went above and beyond to help with connection.,4,yes,yes,2023-09-29,2023-09-22,Amsterdam to Barcelona,Boeing 737,Economy,Leisure,4
+Turkish Airlines,Business lounge Istanbul,Lounge alone worth the stopover. Incredible food.,5,yes,yes,2023-09-28,2023-09-21,Istanbul to London,Airbus A350,Business,Business,5
+Cathay Pacific,Excellent recovery,Flight delayed but airline handled it perfectly.,4,yes,yes,2023-09-27,2023-09-20,Hong Kong to Tokyo,Airbus A350,Economy,Leisure,4
+Qantas,Kangaroo route comfort,Perth to London nonstop was comfortable.,4,yes,yes,2023-09-26,2023-09-19,Perth to London,Boeing 787,Premium Economy,Leisure,4
+Air Canada,Maple leaf mess,Worst customer service I've experienced.,1,no,yes,2023-09-25,2023-09-18,Montreal to Toronto,Airbus A320,Economy,Business,1
+Etihad Airways,The Residence insane,Three room apartment in the sky. Unforgettable.,5,yes,yes,2023-09-24,2023-09-17,Abu Dhabi to London,Airbus A380,First,Leisure,5
+Virgin Atlantic,Upper class lounge,Clubhouse is fantastic. Flight was great too.,4,yes,yes,2023-09-23,2023-09-16,London to New York,Airbus A350,Business,Business,5
+EasyJet,Speedy boarding scam,Priority boarding didn't feel priority at all.,2,no,yes,2023-09-22,2023-09-15,Manchester to Amsterdam,Airbus A320,Economy,Leisure,3
+Norwegian Air,Long haul disappointing,Premium cabin not worth the price.,2,no,yes,2023-09-21,2023-09-14,London to New York,Boeing 787,Premium Economy,Leisure,2
+Swiss International,Chocolate and cheese,Swiss touches throughout. Loved it.,4,yes,yes,2023-09-20,2023-09-13,Zurich to London,Airbus A220,Economy,Business,4
+TAP Portugal,Stopover program great,Free Lisbon stopover was brilliant idea.,4,yes,yes,2023-09-19,2023-09-12,Lisbon to Boston,Airbus A330,Economy,Leisure,4
+Iberia,Madrid T4S terminal,Beautiful terminal. Flight was good too.,4,yes,yes,2023-09-18,2023-09-11,Madrid to New York,Airbus A350,Economy,Leisure,4
+Aeroflot,Avoid if possible,Old planes and poor service. Not recommended.,2,no,yes,2023-09-17,2023-09-10,Moscow to London,Airbus A320,Economy,Business,2
+LOT Polish Airlines,Dreamliner comfort,787 is a great plane. Service was good.,4,yes,yes,2023-09-16,2023-09-09,Warsaw to Chicago,Boeing 787,Economy,Business,4
+SAS Scandinavian,SAS Plus worth it,Better than economy with good perks.,4,yes,yes,2023-09-15,2023-09-08,Copenhagen to New York,Airbus A330,Premium Economy,Business,4
+Finnair,Northern lights flight,Special flight to see aurora. Amazing experience.,5,yes,yes,2023-09-14,2023-09-07,Helsinki to Ivalo,Airbus A320,Economy,Leisure,5
+Alitalia,Sad to see them go,Last flight before closure. Nostalgic.,3,yes,yes,2023-09-13,2023-09-06,Rome to Milan,Airbus A320,Economy,Business,3
+Austrian Airlines,Vienna waltz,Smooth as a waltz. Great service.,4,yes,yes,2023-09-12,2023-09-05,Vienna to London,Airbus A320,Economy,Business,4
+Czech Airlines,Prague beautiful,Short flight but nice service.,3,yes,yes,2023-09-11,2023-09-04,Prague to Vienna,ATR 72,Economy,Business,3
+Aegean Airlines,Best in Greece,Domestic service in Greece is excellent.,4,yes,yes,2023-09-10,2023-09-03,Athens to Santorini,Airbus A320,Economy,Leisure,4
+Aer Lingus,Transatlantic value,Good prices to Europe from US.,4,yes,yes,2023-09-09,2023-09-02,Dublin to Boston,Airbus A330,Economy,Leisure,4
+Brussels Airlines,African connections,Good for flights to Africa via Brussels.,3,yes,yes,2023-09-08,2023-09-01,Brussels to Kinshasa,Airbus A330,Economy,Family,3
+Croatia Airlines,Coastal beauty,Views of Croatian coast were stunning.,4,yes,yes,2023-09-07,2023-08-31,Zagreb to Dubrovnik,Dash 8,Economy,Leisure,4
+Cyprus Airways,Mediterranean gem,Small airline but pleasant.,3,yes,yes,2023-09-06,2023-08-30,Larnaca to Athens,Airbus A320,Economy,Leisure,3
+Air India,New livery nice,Rebranding looking good. Service improving.,3,yes,yes,2023-09-05,2023-08-29,Delhi to Bangalore,Boeing 787,Economy,Business,3
+IndiGo,Always on time,Punctuality is their strength.,4,yes,yes,2023-09-04,2023-08-28,Mumbai to Pune,Airbus A320,Economy,Business,4
+SpiceJet,Too spicy for comfort,Cramped and uncomfortable.,2,no,yes,2023-09-03,2023-08-27,Delhi to Goa,Boeing 737,Economy,Leisure,3
+Vistara,Club class excellent,Best domestic business in India.,5,yes,yes,2023-09-02,2023-08-26,Mumbai to Delhi,Airbus A321,Business,Business,5
+AirAsia,Kuala Lumpur hub,Good connections through KLIA2.,3,yes,yes,2023-09-01,2023-08-25,Kuala Lumpur to Singapore,Airbus A320,Economy,Leisure,4
+Thai Airways,Royal silk service,Royal treatment in business class.,4,yes,yes,2023-08-31,2023-08-24,Bangkok to Tokyo,Boeing 777,Business,Leisure,4
+Vietnam Airlines,Bamboo airways better,Vietnam has better domestic options now.,3,yes,yes,2023-08-30,2023-08-23,Hanoi to Da Nang,Airbus A321,Economy,Leisure,3
+Philippine Airlines,Manila hub chaotic,Airport is the problem not the airline.,3,yes,yes,2023-08-29,2023-08-22,Manila to Boracay,Airbus A320,Economy,Leisure,3
+Garuda Indonesia,Business class lie flat,Comfortable bed in the sky.,4,yes,yes,2023-08-28,2023-08-21,Jakarta to Singapore,Boeing 737,Business,Business,4
+Malaysia Airlines,Satay on board,Malaysian food is delicious.,4,yes,yes,2023-08-27,2023-08-20,Kuala Lumpur to Kota Kinabalu,Boeing 737,Economy,Leisure,4
+China Eastern,Language barrier,Few English speakers in crew.,2,no,yes,2023-08-26,2023-08-19,Shanghai to Guangzhou,Airbus A320,Economy,Business,2
+China Southern,Guangzhou massive,Airport is huge. Flight was fine.,3,yes,yes,2023-08-25,2023
