@@ -4,13 +4,26 @@ from langchain_ollama import OllamaEmbeddings
 from langchain_chroma import Chroma
 from langchain_core.documents import Document
 
-df = pd.read_csv("airline_reviews.csv")
+# Read CSV
+df = pd.read_csv("airline_reviews_light.csv")
+print(f"Loaded {len(df)} rows from CSV")
+
 embeddings = OllamaEmbeddings(model="mxbai-embed-large")
-
 db_location = "./chrome_langchain_db"
-add_documents = not os.path.exists(db_location)
 
-if add_documents:
+# Initialize vector store
+vector_store = Chroma(
+    collection_name="airline_reviews",
+    persist_directory=db_location,
+    embedding_function=embeddings
+)
+
+# Check if we need to add documents
+doc_count = vector_store._collection.count()
+print(f"Vector store currently has {doc_count} documents")
+
+if doc_count == 0:
+    print("Adding documents to vector store...")
     documents = []
     ids = []
     
@@ -37,16 +50,16 @@ if add_documents:
         )
         ids.append(str(i))
         documents.append(document)
-        
-vector_store = Chroma(
-    collection_name="airline_reviews",
-    persist_directory=db_location,
-    embedding_function=embeddings
-)
-
-if add_documents:
+    
+    print(f"Created {len(documents)} documents")
+    print("Adding documents to vector store (this may take a few minutes)...")
     vector_store.add_documents(documents=documents, ids=ids)
+    print("Documents added successfully!")
+else:
+    print("Vector store already populated, skipping document addition")
     
 retriever = vector_store.as_retriever(
     search_kwargs={"k": 5}
 )
+
+print("Retriever initialized successfully!")
