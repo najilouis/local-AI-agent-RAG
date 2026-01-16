@@ -20,23 +20,23 @@ chain = prompt | model
 
 while True:
     print("\n\n-------------------------------")
-    question = input("Ask your question (q to quit): ")
+    question = input("Ask your question (Press 'q' to quit): ")
     print("\n\n")
-    if question == "q":
+    if question.lower() == "q":
         break
     
     # Retrieve documents
     docs = retriever.invoke(question)
     
     # Debug: print number of documents retrieved
-    print(f"DEBUG: Retrieved {len(docs)} documents")
+    #print(f"DEBUG: Retrieved {len(docs)} documents")
     
     if len(docs) == 0:
         print("ERROR: No documents retrieved from vector store!")
         continue
     
     # Debug: print first document
-    print(f"DEBUG: First document preview: {docs[0].page_content[:200]}...")
+    #print(f"DEBUG: First document preview: {docs[0].page_content[:200]}...")
     
     # Extract the text content from documents
     reviews_text = "\n\n---\n\n".join([
@@ -45,7 +45,7 @@ while True:
         for doc in docs
     ])
     
-    print(f"DEBUG: Reviews text length: {len(reviews_text)}")
+    #print(f"DEBUG: Reviews text length: {len(reviews_text)}")
     
     result = chain.invoke({"reviews": reviews_text, "question": question})
     print(result)
