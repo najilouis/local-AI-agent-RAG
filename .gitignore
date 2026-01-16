@@ -208,3 +208,5 @@ __marimo__/
 
 
 logs/
+
+chrome_langchain_db/
